@@ -4,10 +4,17 @@
 ###### *This is a working document, the most current version will always be posted on the course website*
 
 
-**Instructor:** Dr. David Urminsky<br>
-**email:** djusps@rit.edu<br>
-**office:** ORN-1318 <br>
-**website:** http://urminsky.ca/PHYS-330
+**Instructor:** Dr. David Urminsky  
+**email:** djusps@rit.edu  
+**office:** ORN-1318  
+**website:** http://urminsky.ca/PHYS-330  
+
+**Office Hours:**  
+
+      Tues 12:30-2pm
+      Weds 11:30-2pm
+
+
 
 *note: Email is the best way to contact me.  If I do not reply to an email within 24 hours, please re-send the email.  RIT's system is not fool proof and sometimes your messages get filed into my spam folder.*
 
@@ -32,7 +39,8 @@
 **Class Location(s):**
 
        MW  10:10am - 11:05am (CAR)-1235
-       TTH 11:00am - 11:55am (SUS)-3140
+       T   11:00am - 11:55am (07b)-4202
+       TH  11:00am - 11:55am  (01)-3381
 
 <br>
 <br>
