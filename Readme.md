@@ -104,3 +104,13 @@ Grading for homework will be as follows (per problem):
       Weeks 11-14: Chapters 9, 10, 13
 
       The above outline is subject to change.
+
+**Grading Scheme**
+
+Following the School of Physics and Astronomy scheme here is the approximate grade
+Scheme:
+      A (type) - 90 or greater  
+      B (type) - 80 - 90  
+      C (type) - 70 - 79  
+      D        - 60 - 69  
+      F        - less than 60
